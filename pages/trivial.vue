@@ -1,0 +1,3 @@
+<template>
+    <TrivialComponent></TrivialComponent>
+</template>

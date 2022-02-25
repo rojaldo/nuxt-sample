@@ -20,6 +20,9 @@
                     <li class="nav-item">
                         <NuxtLink class="nav-link" to="/beers">Beers</NuxtLink>
                     </li>
+                    <li class="nav-item">
+                        <NuxtLink class="nav-link" to="/trivial">Trivial</NuxtLink>
+                    </li>
                 </ul>
             </div>
         </nav>
