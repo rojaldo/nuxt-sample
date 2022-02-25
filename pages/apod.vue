@@ -1,0 +1,3 @@
+<template>
+  <ApodContainer></ApodContainer>
+</template>
